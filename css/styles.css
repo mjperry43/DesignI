@@ -1,0 +1,22 @@
+p {
+	font-family: Roboto, Space Grotesk, sans-serif;
+	font-size: 1.2em;
+	color: #000000;
+
+H1
+	font-family: Pacifico, Space Grotesk, sans-serif;
+	font-size: 2.5em;
+	color: yellow;
+	background-color: purple;
+
+	.wideleftmargin
+		padding: 25% 5% 5% 5%;
+
+
+	.bottomrule
+		border-bottom: 1px solid #000000;
+
+
+	.green
+		background-color: purple;
+		}
